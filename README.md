@@ -1,4 +1,4 @@
-*** Actividad 1_3: Join
+# Actividad 1_3: Join
 Uso de Join trabajando con hilos
 
 Yo ya había usado en el anterior ejercicio, porque me daba error y estaba mala y busqué como poder solucionarlo y ya había visto el .join()
